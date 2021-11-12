@@ -11,4 +11,11 @@
 ## Programming:
   - KEIL uVision5
   - MobaXTerm
+  - Visual Studios
+ 
+ ## Video Recording/ Editing:
+  - OBS Studios (Recording)
+  - Preimer Pro (Editing)
+  - DaVinci Resolve (Editing)
+  - After Effects (Editing)
  
