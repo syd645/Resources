@@ -6,5 +6,9 @@
   - Sweep Visualizer (May not be avalible anymore)
  
  ## Research: 
- 
+  - Zotero 
+
+## Programming:
+  - KEIL uVision5
+  - MobaXTerm
  
