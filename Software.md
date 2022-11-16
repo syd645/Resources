@@ -4,6 +4,7 @@
   - MeshLab
   - Cloud Compare
   - Sweep Visualizer (May not be avalible anymore)
+  - Blender
  
  ## Research: 
   - Zotero 
@@ -19,3 +20,12 @@
   - DaVinci Resolve (Editing)
   - After Effects (Editing)
  
+ ## Art:
+  - Adobe Photoshop
+  - Adobe Illustrator
+  - Affinity Designer
+  - Affinity Photo
+  - Inkscape
+  - Procreate
+  - Vectornator
+  - Font Forge
